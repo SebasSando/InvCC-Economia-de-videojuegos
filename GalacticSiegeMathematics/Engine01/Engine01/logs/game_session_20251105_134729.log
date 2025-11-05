@@ -1,0 +1,49 @@
+2025-11-05 13:47:29 [INFO] --- NEW GAME SESSION STARTED ---
+2025-11-05 13:47:29 [INFO] GameManagerSystem initialized.
+2025-11-05 13:47:29 [GAME_EVENT] 
+2025-11-05 13:47:31 [INFO] SCENE SET: level_01.
+2025-11-05 13:47:31 [GAME_EVENT] 
+2025-11-05 13:47:35 [INFO] Enemy type 2 spawned.
+2025-11-05 13:47:35 [INFO] Enemy type 1 spawned.
+2025-11-05 13:47:36 [INFO] Time limit expired! Player alive. Triggering victory scene: level_01
+2025-11-05 13:47:36 [INFO] SCENE SET: victory_menu.
+2025-11-05 13:47:36 [GAME_EVENT] 
+2025-11-05 13:47:38 [INFO] Transitioning to next scene. Current: , Next: level_01
+2025-11-05 13:47:38 [INFO] SCENE SET: level_02.
+2025-11-05 13:47:39 [GAME_EVENT] 
+2025-11-05 13:47:41 [INFO] Enemy type 2 spawned.
+2025-11-05 13:47:42 [INFO] Enemy type 1 spawned.
+2025-11-05 13:47:43 [INFO] Enemy type 2 spawned.
+2025-11-05 13:47:43 [INFO] Time limit expired! Player alive. Triggering victory scene: level_02
+2025-11-05 13:47:43 [INFO] SCENE SET: victory_menu.
+2025-11-05 13:47:44 [GAME_EVENT] 
+2025-11-05 13:47:44 [INFO] Transitioning to next scene. Current: level_02, Next: level_02
+2025-11-05 13:47:44 [INFO] SCENE SET: level_03.
+2025-11-05 13:47:45 [GAME_EVENT] 
+2025-11-05 13:47:46 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-05 13:47:46 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-05 13:47:46 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-05 13:47:47 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-05 13:47:47 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-05 13:47:48 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-05 13:47:48 [INFO] PLAYER HIT: Player attacked by Enemy 13 via bullet. Damage done: 1
+2025-11-05 13:47:49 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-05 13:47:49 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-05 13:47:50 [INFO] PLAYER HIT: Player attacked by Enemy 13 via bullet. Damage done: 1
+2025-11-05 13:47:50 [INFO] PLAYER HIT: Player attacked by Enemy 13 via bullet. Damage done: 1
+2025-11-05 13:47:50 [INFO] PLAYER HIT: Player attacked by Enemy 13 via bullet. Damage done: 1
+2025-11-05 13:47:50 [INFO] PLAYER HIT: Player attacked by Enemy 13 via bullet. Damage done: 1
+2025-11-05 13:47:51 [INFO] PLAYER HIT: Player attacked by Enemy 13 via bullet. Damage done: 1
+2025-11-05 13:47:52 [INFO] PLAYER HIT: Player attacked by Enemy 13 via bullet. Damage done: 1
+2025-11-05 13:47:53 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-05 13:47:54 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-05 13:47:54 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-05 13:47:54 [INFO] PLAYER HIT: Player attacked by Enemy 13 via bullet. Damage done: 1
+2025-11-05 13:47:54 [INFO] Extra life generated.
+2025-11-05 13:47:54 [INFO] PLAYER HIT: Player attacked by Enemy 13 via bullet. Damage done: 1
+2025-11-05 13:47:55 [INFO] PLAYER HIT: Player attacked by Enemy 13 via bullet. Damage done: 1
+2025-11-05 13:47:55 [INFO] ENEMY KILLED: 1. BY: 13
+2025-11-05 13:47:55 [INFO] Player died!. Triggering game over scene.
+2025-11-05 13:47:55 [INFO] SCENE SET: defeat_menu.
+2025-11-05 13:47:56 [GAME_EVENT] 
+[INFO] --- GAME SESSION ENDED ---

@@ -1,10 +1,10 @@
 local spawnTimer = 0
-local spawnInterval = 3.69
+local spawnInterval = 3.75
 
-function createEnemy2(dt, wH, wW)
+function createEnemy1(dt, wH, wW)
     spawnTimer = spawnTimer + dt
     if spawnTimer >= spawnInterval then
-        enemy2Factory(wH, wW)
+        enemy1Factory(wH, wW)
         spawnTimer = 0
     end
 end

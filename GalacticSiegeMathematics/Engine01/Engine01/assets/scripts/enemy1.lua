@@ -1,5 +1,5 @@
 local shootTimer = 0
-local shootInterval = 1.5
+local shootInterval = 3.0
 
 function enemy1_Attack(enemyX, enemyY)
 	enemyBulletsFactory(enemyX, enemyY)

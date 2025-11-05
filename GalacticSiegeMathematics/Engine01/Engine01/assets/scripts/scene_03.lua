@@ -160,10 +160,10 @@ scene = {
                     rotation = 0.0,
                 },
                 health = {
-                    health = 40
+                    health = 60
                 },
                 score = {
-                    score = 500
+                    score = 300
                 },
                 type = {
                     type = 7

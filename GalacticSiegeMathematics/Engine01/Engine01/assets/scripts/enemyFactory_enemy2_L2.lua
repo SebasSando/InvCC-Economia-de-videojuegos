@@ -1,5 +1,5 @@
 local spawnTimer = 0
-local spawnInterval = 3.69
+local spawnInterval = 2.33
 
 function createEnemy2(dt, wH, wW)
     spawnTimer = spawnTimer + dt

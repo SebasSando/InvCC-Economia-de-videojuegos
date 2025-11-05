@@ -157,6 +157,9 @@ public:
             }
             finalLevel = false;
         }
+        else {
+            this->gameOver = false;
+        }
     }
     /**
      * @brief Checks if the game timer has expired and triggers victory.
@@ -241,23 +244,37 @@ public:
      */
     void GoToNextScene(sol::state& lua) {
         if (this->gameOver) {
-            LogMessage(Logger::INFO, "Attempting scene transition after Game Over. Scene: " + nextScene);
+            LogMessage(Logger::INFO, "Attempting scene transition after Game Over. Scene: " + currentScene);
+            if (this->currentScene == "level_01" || this->currentScene == "") {
+                //this->currentScene = "level_01";
+                this->nextScene = "level_01";
+            }
+            else if (this->currentScene == "level_02") {
+                //this->currentScene = "level_02";
+                this->nextScene = "level_02";
+            }
+            else if (this->currentScene == "level_03") {
+                //this->currentScene = "level_03";
+                this->nextScene = "level_03";
+            }
         } else {
             LogMessage(Logger::INFO, "Transitioning to next scene. Current: " + currentScene + ", Next: " + nextScene);
         }
         if (!this->gameOver) {
-            if (this->nextScene == "level_01") {
-                this->currentScene = "level_01";
+            if (this->currentScene == "level_01" || this->currentScene == "") {
+                //this->currentScene = "level_01";
                 this->nextScene = "level_02";
             }
-            else if (this->nextScene == "level_02") {
-                this->currentScene = "level_02";
+            else if (this->currentScene == "level_02") {
+                //this->currentScene = "level_02";
                 this->nextScene = "level_03";
             }
-            else if (this->nextScene == "level_03") {
-                this->currentScene = "level_03";
+            else if (this->currentScene == "level_03") {
+                //this->currentScene = "level_03";
                 this->nextScene = "level_01";
             }
+
+            this->currentScene = this->nextScene;
         }
         else {
 

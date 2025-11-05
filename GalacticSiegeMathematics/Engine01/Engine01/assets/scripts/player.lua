@@ -33,7 +33,7 @@ function update()
 end
 
 local shootTimer = 0
-local shootInterval = 0.5
+local shootInterval = 0.3
 
 function shootBullet(playerX, playerY)
 	bulletFactory(playerX, playerY)

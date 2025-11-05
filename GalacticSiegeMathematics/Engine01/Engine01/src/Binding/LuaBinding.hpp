@@ -132,7 +132,7 @@ void Enemy1Factory(int windowHeight, int windowWidth) {
 	enemy1.AddComponent<CircleColliderComponent>(64, 64, 64);
 	enemy1.AddComponent<SpriteComponent>("enemy1", 128, 128, 0, 0);
 	enemy1.AddComponent<HealthComponent>(3);
-	enemy1.AddComponent<ScoreComponent>(100);
+	enemy1.AddComponent<ScoreComponent>(200);
 	enemy1.AddComponent<EntityTypeComponent>(3);
 	enemy1.AddComponent<IsEntityInsideTheScreenComponent>(false);
 	AddScriptComponent(enemy1, "./assets/scripts/enemy1.lua", "updateEnemy1Position");
@@ -149,8 +149,8 @@ void Enemy2Factory(int windowHeight, int windowWidth) {
 	Entity enemy2 = Game::GetInstance().registry->CreateEntity();
 	enemy2.AddComponent<CircleColliderComponent>(64, 64, 64);
 	enemy2.AddComponent<SpriteComponent>("enemy2", 128, 128, 0, 0);
-	enemy2.AddComponent<HealthComponent>(2);
-	enemy2.AddComponent<ScoreComponent>(50);
+	enemy2.AddComponent<HealthComponent>(4);
+	enemy2.AddComponent<ScoreComponent>(100);
 	enemy2.AddComponent<EntityTypeComponent>(5);
 	enemy2.AddComponent<IsEntityInsideTheScreenComponent>(false);
 	AddTransformAndRigidBodyComponent(enemy2, windowHeight, windowWidth, enemy2.GetComponent<EntityTypeComponent>().entityType);
@@ -167,7 +167,7 @@ void Enemy3Factory(int windowHeight, int windowWidth) {
 	enemy3.AddComponent<CircleColliderComponent>(96, 96, 96);
 	enemy3.AddComponent<SpriteComponent>("enemy3", 128, 128, 0, 0);
 	enemy3.AddComponent<HealthComponent>(6);
-	enemy3.AddComponent<ScoreComponent>(250);
+	enemy3.AddComponent<ScoreComponent>(400);
 	enemy3.AddComponent<EntityTypeComponent>(6);
 	enemy3.AddComponent<IsEntityInsideTheScreenComponent>(false);
 	AddScriptComponent(enemy3, "./assets/scripts/enemy3.lua", "updateEnemy3Position");
