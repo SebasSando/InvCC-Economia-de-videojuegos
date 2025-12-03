@@ -20,4 +20,9 @@ Each version of the game was balanced using a different methodology:
 
 - Original version (designer experience): https://youtu.be/QNfEhpABYjk  
 - Playtesting version (focus group): https://youtu.be/rAT3Tv2btIc  
-- Mathematical version (GEEVO): https://youtu.be/dYTQPFI6Bjg  
+- Mathematical version (GEEVO): https://youtu.be/dYTQPFI6Bjg
+
+  ## Questionnaire Used in the Experiment
+
+The player experience was measured using a structured questionnaire. The instrument applied in the experiment is available at the following link:  
+[Google Forms Questionnaire](https://docs.google.com/forms/d/e/1FAIpQLScZNHLfPqW7PBCgksMqDpTrYLPdvHebaxqSDdluLKLEDVBfLw/viewform)
