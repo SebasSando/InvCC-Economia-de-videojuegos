@@ -1,0 +1,28 @@
+2025-11-04 17:45:25 [INFO] --- NEW GAME SESSION STARTED ---
+2025-11-04 17:45:25 [INFO] GameManagerSystem initialized.
+2025-11-04 17:45:25 [GAME_EVENT] 
+2025-11-04 17:45:27 [INFO] SCENE SET: level_01.
+2025-11-04 17:45:27 [GAME_EVENT] 
+2025-11-04 17:45:32 [INFO] Enemy type 1 spawned.
+2025-11-04 17:45:32 [INFO] Enemy type 2 spawned.
+2025-11-04 17:45:36 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 17:45:37 [INFO] Enemy type 1 spawned.
+2025-11-04 17:45:37 [INFO] Enemy type 2 spawned.
+2025-11-04 17:45:38 [INFO] PLAYER HIT: Player attacked by Enemy 5 via direct contact. Damage done: 2
+2025-11-04 17:45:41 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 17:45:42 [INFO] Extra life generated.
+2025-11-04 17:45:42 [INFO] Enemy type 1 spawned.
+2025-11-04 17:45:42 [INFO] Enemy type 2 spawned.
+2025-11-04 17:45:44 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 17:45:45 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 17:45:46 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 17:45:46 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 17:45:46 [INFO] SCORE CHANGED: Player score updated by +50. Score: 0 -> 50.
+2025-11-04 17:45:46 [INFO] ENEMY KILLED: 5. BY: 2
+2025-11-04 17:45:46 [INFO] POWERUP ACQUIRED: Extra Life.
+2025-11-04 17:45:46 [INFO] RESOURCE CHANGE (Lives): Player gained 1 life. Lives: 3 -> 4.
+2025-11-04 17:45:46 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 17:45:47 [INFO] Enemy type 1 spawned.
+2025-11-04 17:45:47 [INFO] Enemy type 2 spawned.
+2025-11-04 17:45:47 [INFO] PLAYER HIT: Player attacked by Enemy 5 via direct contact. Damage done: 2
+[INFO] --- GAME SESSION ENDED ---

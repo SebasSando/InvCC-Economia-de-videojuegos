@@ -1,0 +1,290 @@
+2025-11-04 21:48:37 [INFO] --- NEW GAME SESSION STARTED ---
+2025-11-04 21:48:37 [INFO] GameManagerSystem initialized.
+2025-11-04 21:48:38 [GAME_EVENT] 
+2025-11-04 21:48:40 [INFO] SCENE SET: level_01.
+2025-11-04 21:48:40 [GAME_EVENT] 
+2025-11-04 21:48:45 [INFO] Enemy type 1 spawned.
+2025-11-04 21:48:45 [INFO] Enemy type 2 spawned.
+2025-11-04 21:48:48 [INFO] PLAYER HIT: Player attacked by Enemy 4 via bullet. Damage done: 1
+2025-11-04 21:48:49 [INFO] PLAYER HIT: Player attacked by Enemy 4 via bullet. Damage done: 1
+2025-11-04 21:48:50 [INFO] Enemy type 1 spawned.
+2025-11-04 21:48:50 [INFO] Enemy type 2 spawned.
+2025-11-04 21:48:51 [INFO] PLAYER HIT: Player attacked by Enemy 4 via bullet. Damage done: 1
+2025-11-04 21:48:51 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:48:52 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:48:52 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:48:52 [INFO] PLAYER HIT: Player attacked by Enemy 5 via direct contact. Damage done: 2
+2025-11-04 21:48:53 [INFO] Player died!. Triggering game over scene.
+2025-11-04 21:48:53 [INFO] SCENE SET: defeat_menu.
+2025-11-04 21:48:53 [GAME_EVENT] 
+2025-11-04 21:48:54 [INFO] SCENE SET: main_menu.
+2025-11-04 21:48:54 [GAME_EVENT] 
+2025-11-04 21:48:56 [INFO] SCENE SET: level_03.
+2025-11-04 21:48:56 [GAME_EVENT] 
+2025-11-04 21:49:03 [INFO] PLAYER HIT: Player attacked by Enemy 13 via bullet. Damage done: 1
+2025-11-04 21:49:05 [INFO] PLAYER HIT: Player attacked by Enemy 13 via bullet. Damage done: 1
+2025-11-04 21:49:11 [INFO] Extra life generated.
+2025-11-04 21:49:13 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:13 [INFO] POWERUP ACQUIRED: Extra Life.
+2025-11-04 21:49:13 [INFO] RESOURCE CHANGE (Lives): Player gained 1 life. Lives: 8 -> 9.
+2025-11-04 21:49:13 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:14 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:16 [INFO] Enemy type 1 spawned.
+2025-11-04 21:49:16 [INFO] Enemy type 2 spawned.
+2025-11-04 21:49:16 [INFO] Enemy type 3 spawned.
+2025-11-04 21:49:16 [INFO] Enemy type 1 spawned.
+2025-11-04 21:49:16 [INFO] Enemy type 2 spawned.
+2025-11-04 21:49:16 [INFO] Enemy type 3 spawned.
+2025-11-04 21:49:16 [INFO] Enemy type 1 spawned.
+2025-11-04 21:49:16 [INFO] Enemy type 2 spawned.
+2025-11-04 21:49:16 [INFO] Enemy type 3 spawned.
+2025-11-04 21:49:17 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:17 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:18 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:19 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:22 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:22 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:22 [INFO] SCORE CHANGED: Player score updated by +100. Score: 0 -> 100.
+2025-11-04 21:49:22 [INFO] ENEMY KILLED: 3. BY: 2
+2025-11-04 21:49:23 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:23 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:23 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:23 [INFO] SCORE CHANGED: Player score updated by +50. Score: 100 -> 150.
+2025-11-04 21:49:23 [INFO] ENEMY KILLED: 5. BY: 2
+2025-11-04 21:49:24 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:25 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:25 [INFO] SCORE CHANGED: Player score updated by +50. Score: 150 -> 200.
+2025-11-04 21:49:25 [INFO] ENEMY KILLED: 5. BY: 2
+2025-11-04 21:49:26 [INFO] Extra life generated.
+2025-11-04 21:49:26 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:26 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:26 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:26 [INFO] SCORE CHANGED: Player score updated by +50. Score: 200 -> 250.
+2025-11-04 21:49:26 [INFO] ENEMY KILLED: 5. BY: 2
+2025-11-04 21:49:26 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:28 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:28 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:29 [INFO] PLAYER HIT: Player attacked by Enemy 4 via bullet. Damage done: 1
+2025-11-04 21:49:29 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:29 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:30 [INFO] POWERUP ACQUIRED: Extra Life.
+2025-11-04 21:49:30 [INFO] RESOURCE CHANGE (Lives): Player gained 1 life. Lives: 8 -> 9.
+2025-11-04 21:49:30 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:31 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:31 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:31 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:32 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:33 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:33 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:34 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:34 [INFO] SCORE CHANGED: Player score updated by +100. Score: 250 -> 350.
+2025-11-04 21:49:34 [INFO] ENEMY KILLED: 3. BY: 2
+2025-11-04 21:49:36 [INFO] PLAYER HIT: Player attacked by Enemy 4 via bullet. Damage done: 1
+2025-11-04 21:49:37 [INFO] PLAYER HIT: Player attacked by Enemy 13 via bullet. Damage done: 1
+2025-11-04 21:49:39 [INFO] PLAYER HIT: Player attacked by Enemy 13 via bullet. Damage done: 1
+2025-11-04 21:49:39 [INFO] PLAYER HIT: Player attacked by Enemy 13 via bullet. Damage done: 1
+2025-11-04 21:49:39 [INFO] PLAYER HIT: Player attacked by Enemy 13 via bullet. Damage done: 1
+2025-11-04 21:49:40 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:40 [INFO] PLAYER HIT: Player attacked by Enemy 4 via bullet. Damage done: 1
+2025-11-04 21:49:41 [INFO] Nuke generated.
+2025-11-04 21:49:41 [INFO] Extra life generated.
+2025-11-04 21:49:41 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:42 [INFO] PLAYER HIT: Player attacked by Enemy 13 via bullet. Damage done: 1
+2025-11-04 21:49:43 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:43 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:43 [INFO] POWERUP ACQUIRED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] NUKE ACTIVATED: Global enemy clea.
+2025-11-04 21:49:43 [INFO] POWER-UP USED: Nuke
+2025-11-04 21:49:43 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:44 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:45 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:46 [INFO] PLAYER HIT: Player attacked by Enemy 13 via bullet. Damage done: 1
+2025-11-04 21:49:46 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:51 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:56 [INFO] Enemy type 1 spawned.
+2025-11-04 21:49:56 [INFO] Enemy type 2 spawned.
+2025-11-04 21:49:56 [INFO] Enemy type 3 spawned.
+2025-11-04 21:49:56 [INFO] Enemy type 1 spawned.
+2025-11-04 21:49:56 [INFO] Enemy type 2 spawned.
+2025-11-04 21:49:56 [INFO] Enemy type 3 spawned.
+2025-11-04 21:49:56 [INFO] Enemy type 1 spawned.
+2025-11-04 21:49:56 [INFO] Enemy type 2 spawned.
+2025-11-04 21:49:56 [INFO] Enemy type 3 spawned.
+2025-11-04 21:49:56 [INFO] Extra life generated.
+2025-11-04 21:49:56 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:56 [INFO] ENEMY HIT: Enemy type 6 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:56 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:56 [INFO] ENEMY HIT: Enemy type 6 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:57 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:49:58 [INFO] POWERUP ACQUIRED: Extra Life.
+2025-11-04 21:49:58 [INFO] RESOURCE CHANGE (Lives): Player gained 1 life. Lives: 1 -> 2.
+2025-11-04 21:49:58 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:50:00 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:50:00 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:50:01 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:50:01 [INFO] POWERUP ACQUIRED: Extra Life.
+2025-11-04 21:50:01 [INFO] RESOURCE CHANGE (Lives): Player gained 1 life. Lives: 2 -> 3.
+2025-11-04 21:50:01 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:50:02 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:50:03 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:50:03 [INFO] PLAYER HIT: Player attacked by Enemy 5 via direct contact. Damage done: 2
+2025-11-04 21:50:03 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:50:03 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:50:04 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:50:04 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:50:04 [INFO] SCORE CHANGED: Player score updated by +50. Score: 350 -> 400.
+2025-11-04 21:50:04 [INFO] ENEMY KILLED: 5. BY: 2
+2025-11-04 21:50:05 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:50:06 [INFO] ENEMY HIT: Enemy type 7 attacked by player via bullet. Damage done: 1
+2025-11-04 21:50:07 [INFO] PLAYER HIT: Player attacked by Enemy 4 via bullet. Damage done: 1
+2025-11-04 21:50:07 [INFO] ENEMY KILLED: 1. BY: 4
+2025-11-04 21:50:07 [INFO] Player died!. Triggering game over scene.
+2025-11-04 21:50:07 [INFO] SCENE SET: defeat_menu.
+2025-11-04 21:50:07 [GAME_EVENT] 
+2025-11-04 21:50:11 [INFO] SCENE SET: main_menu.
+2025-11-04 21:50:11 [GAME_EVENT] 
+[INFO] --- GAME SESSION ENDED ---

@@ -1,0 +1,82 @@
+2025-11-04 21:37:53 [INFO] --- NEW GAME SESSION STARTED ---
+2025-11-04 21:37:53 [INFO] GameManagerSystem initialized.
+2025-11-04 21:37:53 [GAME_EVENT] 
+2025-11-04 21:37:54 [INFO] SCENE SET: level_02.
+2025-11-04 21:37:54 [GAME_EVENT] 
+2025-11-04 21:37:59 [INFO] Enemy type 1 spawned.
+2025-11-04 21:37:59 [INFO] Enemy type 2 spawned.
+2025-11-04 21:38:00 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:02 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:04 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:04 [INFO] SCORE CHANGED: Player score updated by +100. Score: 0 -> 100.
+2025-11-04 21:38:04 [INFO] ENEMY KILLED: 3. BY: 2
+2025-11-04 21:38:04 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:04 [INFO] Enemy type 1 spawned.
+2025-11-04 21:38:04 [INFO] Enemy type 2 spawned.
+2025-11-04 21:38:04 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:04 [INFO] SCORE CHANGED: Player score updated by +50. Score: 100 -> 150.
+2025-11-04 21:38:04 [INFO] ENEMY KILLED: 5. BY: 2
+2025-11-04 21:38:05 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:05 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:06 [INFO] Enemy type 3 spawned.
+2025-11-04 21:38:07 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:07 [INFO] SCORE CHANGED: Player score updated by +100. Score: 150 -> 250.
+2025-11-04 21:38:07 [INFO] ENEMY KILLED: 3. BY: 2
+2025-11-04 21:38:08 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:09 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:09 [INFO] SCORE CHANGED: Player score updated by +50. Score: 250 -> 300.
+2025-11-04 21:38:09 [INFO] ENEMY KILLED: 5. BY: 2
+2025-11-04 21:38:09 [INFO] Extra life generated.
+2025-11-04 21:38:09 [INFO] Enemy type 1 spawned.
+2025-11-04 21:38:09 [INFO] Enemy type 2 spawned.
+2025-11-04 21:38:10 [INFO] ENEMY HIT: Enemy type 6 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:11 [INFO] ENEMY HIT: Enemy type 6 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:11 [INFO] ENEMY HIT: Enemy type 6 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:11 [INFO] PLAYER HIT: Player attacked by Enemy 4 via bullet. Damage done: 1
+2025-11-04 21:38:11 [INFO] ENEMY HIT: Enemy type 6 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:12 [INFO] ENEMY HIT: Enemy type 6 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:13 [INFO] ENEMY HIT: Enemy type 6 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:13 [INFO] SCORE CHANGED: Player score updated by +250. Score: 300 -> 550.
+2025-11-04 21:38:13 [INFO] ENEMY KILLED: 6. BY: 2
+2025-11-04 21:38:14 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:14 [INFO] Enemy type 1 spawned.
+2025-11-04 21:38:14 [INFO] Enemy type 2 spawned.
+2025-11-04 21:38:14 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:14 [INFO] SCORE CHANGED: Player score updated by +50. Score: 550 -> 600.
+2025-11-04 21:38:14 [INFO] ENEMY KILLED: 5. BY: 2
+2025-11-04 21:38:17 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:18 [INFO] Enemy type 3 spawned.
+2025-11-04 21:38:19 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:19 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:19 [INFO] Enemy type 1 spawned.
+2025-11-04 21:38:19 [INFO] Enemy type 2 spawned.
+2025-11-04 21:38:19 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:19 [INFO] SCORE CHANGED: Player score updated by +50. Score: 600 -> 650.
+2025-11-04 21:38:19 [INFO] ENEMY KILLED: 5. BY: 2
+2025-11-04 21:38:21 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:21 [INFO] ENEMY HIT: Enemy type 6 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:22 [INFO] ENEMY HIT: Enemy type 6 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:23 [INFO] ENEMY HIT: Enemy type 6 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:23 [INFO] ENEMY HIT: Enemy type 6 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:24 [INFO] ENEMY HIT: Enemy type 6 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:24 [INFO] Extra life generated.
+2025-11-04 21:38:24 [INFO] ENEMY HIT: Enemy type 6 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:24 [INFO] SCORE CHANGED: Player score updated by +250. Score: 650 -> 900.
+2025-11-04 21:38:24 [INFO] ENEMY KILLED: 6. BY: 2
+2025-11-04 21:38:24 [INFO] Enemy type 1 spawned.
+2025-11-04 21:38:24 [INFO] Enemy type 2 spawned.
+2025-11-04 21:38:25 [INFO] PLAYER HIT: Player attacked by Enemy 4 via bullet. Damage done: 1
+2025-11-04 21:38:26 [INFO] PLAYER HIT: Player attacked by Enemy 5 via direct contact. Damage done: 2
+2025-11-04 21:38:28 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:29 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:29 [INFO] Enemy type 1 spawned.
+2025-11-04 21:38:29 [INFO] Enemy type 2 spawned.
+2025-11-04 21:38:30 [INFO] Enemy type 3 spawned.
+2025-11-04 21:38:30 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:38:31 [INFO] PLAYER HIT: Player attacked by Enemy 5 via direct contact. Damage done: 2
+2025-11-04 21:38:31 [INFO] Player died!. Triggering game over scene.
+2025-11-04 21:38:31 [INFO] SCENE SET: defeat_menu.
+2025-11-04 21:38:31 [GAME_EVENT] 
+2025-11-04 21:38:32 [INFO] SCENE SET: main_menu.
+2025-11-04 21:38:32 [GAME_EVENT] 
+[INFO] --- GAME SESSION ENDED ---

@@ -1,0 +1,48 @@
+2025-11-04 21:46:58 [INFO] --- NEW GAME SESSION STARTED ---
+2025-11-04 21:46:58 [INFO] GameManagerSystem initialized.
+2025-11-04 21:46:58 [GAME_EVENT] 
+2025-11-04 21:47:00 [INFO] SCENE SET: level_01.
+2025-11-04 21:47:00 [GAME_EVENT] 
+2025-11-04 21:47:05 [INFO] Enemy type 1 spawned.
+2025-11-04 21:47:05 [INFO] Enemy type 2 spawned.
+2025-11-04 21:47:07 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:47:08 [INFO] PLAYER HIT: Player attacked by Enemy 4 via bullet. Damage done: 1
+2025-11-04 21:47:10 [INFO] Enemy type 1 spawned.
+2025-11-04 21:47:10 [INFO] Enemy type 2 spawned.
+2025-11-04 21:47:11 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:47:12 [INFO] PLAYER HIT: Player attacked by Enemy 5 via direct contact. Damage done: 2
+2025-11-04 21:47:13 [INFO] PLAYER HIT: Player attacked by Enemy 4 via bullet. Damage done: 1
+2025-11-04 21:47:15 [INFO] Extra life generated.
+2025-11-04 21:47:15 [INFO] Enemy type 1 spawned.
+2025-11-04 21:47:15 [INFO] Enemy type 2 spawned.
+2025-11-04 21:47:16 [INFO] PLAYER HIT: Player attacked by Enemy 5 via direct contact. Damage done: 2
+2025-11-04 21:47:16 [INFO] Player died!. Triggering game over scene.
+2025-11-04 21:47:16 [INFO] SCENE SET: defeat_menu.
+2025-11-04 21:47:16 [GAME_EVENT] 
+2025-11-04 21:47:18 [INFO] SCENE SET: main_menu.
+2025-11-04 21:47:18 [GAME_EVENT] 
+2025-11-04 21:47:19 [INFO] SCENE SET: level_02.
+2025-11-04 21:47:19 [GAME_EVENT] 
+2025-11-04 21:47:24 [INFO] Enemy type 1 spawned.
+2025-11-04 21:47:24 [INFO] Enemy type 2 spawned.
+2025-11-04 21:47:26 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:47:26 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:47:26 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:47:26 [INFO] SCORE CHANGED: Player score updated by +100. Score: 0 -> 100.
+2025-11-04 21:47:26 [INFO] ENEMY KILLED: 3. BY: 2
+2025-11-04 21:47:29 [INFO] Enemy type 1 spawned.
+2025-11-04 21:47:29 [INFO] Enemy type 2 spawned.
+2025-11-04 21:47:30 [INFO] PLAYER HIT: Player attacked by Enemy 5 via direct contact. Damage done: 2
+2025-11-04 21:47:31 [INFO] Enemy type 3 spawned.
+2025-11-04 21:47:32 [INFO] PLAYER HIT: Player attacked by Enemy 4 via bullet. Damage done: 1
+2025-11-04 21:47:34 [INFO] Extra life generated.
+2025-11-04 21:47:34 [INFO] Enemy type 1 spawned.
+2025-11-04 21:47:34 [INFO] Enemy type 2 spawned.
+2025-11-04 21:47:35 [INFO] PLAYER HIT: Player attacked by Enemy 4 via bullet. Damage done: 1
+2025-11-04 21:47:35 [INFO] PLAYER HIT: Player attacked by Enemy 5 via direct contact. Damage done: 2
+2025-11-04 21:47:35 [INFO] Player died!. Triggering game over scene.
+2025-11-04 21:47:35 [INFO] SCENE SET: defeat_menu.
+2025-11-04 21:47:35 [GAME_EVENT] 
+2025-11-04 21:47:37 [INFO] SCENE SET: main_menu.
+2025-11-04 21:47:37 [GAME_EVENT] 
+[INFO] --- GAME SESSION ENDED ---

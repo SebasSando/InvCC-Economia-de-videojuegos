@@ -1,0 +1,34 @@
+2025-11-04 17:59:53 [INFO] --- NEW GAME SESSION STARTED ---
+2025-11-04 17:59:53 [INFO] GameManagerSystem initialized.
+2025-11-04 17:59:53 [GAME_EVENT] 
+2025-11-04 17:59:54 [INFO] SCENE SET: level_02.
+2025-11-04 17:59:55 [GAME_EVENT] 
+2025-11-04 17:59:59 [INFO] Enemy type 1 spawned.
+2025-11-04 17:59:59 [INFO] Enemy type 2 spawned.
+2025-11-04 18:00:04 [INFO] Enemy type 1 spawned.
+2025-11-04 18:00:04 [INFO] Enemy type 2 spawned.
+2025-11-04 18:00:05 [INFO] PLAYER HIT: Player attacked by Enemy 5 via direct contact. Damage done: 2
+2025-11-04 18:00:06 [INFO] Enemy type 3 spawned.
+2025-11-04 18:00:07 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 18:00:08 [INFO] PLAYER HIT: Player attacked by Enemy 5 via direct contact. Damage done: 2
+2025-11-04 18:00:09 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 18:00:09 [INFO] Extra life generated.
+2025-11-04 18:00:10 [INFO] Enemy type 1 spawned.
+2025-11-04 18:00:10 [INFO] Enemy type 2 spawned.
+2025-11-04 18:00:11 [INFO] ENEMY HIT: Enemy type 6 attacked by player via bullet. Damage done: 1
+2025-11-04 18:00:11 [INFO] ENEMY HIT: Enemy type 6 attacked by player via bullet. Damage done: 1
+2025-11-04 18:00:11 [INFO] ENEMY HIT: Enemy type 6 attacked by player via bullet. Damage done: 1
+2025-11-04 18:00:12 [INFO] ENEMY HIT: Enemy type 6 attacked by player via bullet. Damage done: 1
+2025-11-04 18:00:13 [INFO] ENEMY HIT: Enemy type 6 attacked by player via bullet. Damage done: 1
+2025-11-04 18:00:14 [INFO] ENEMY HIT: Enemy type 6 attacked by player via bullet. Damage done: 1
+2025-11-04 18:00:14 [INFO] SCORE CHANGED: Player score updated by +250. Score: 0 -> 250.
+2025-11-04 18:00:14 [INFO] ENEMY KILLED: 6. BY: 2
+2025-11-04 18:00:15 [INFO] Enemy type 1 spawned.
+2025-11-04 18:00:15 [INFO] Enemy type 2 spawned.
+2025-11-04 18:00:15 [INFO] PLAYER HIT: Player attacked by Enemy 5 via direct contact. Damage done: 2
+2025-11-04 18:00:15 [INFO] Player died!. Triggering game over scene.
+2025-11-04 18:00:15 [INFO] SCENE SET: defeat_menu.
+2025-11-04 18:00:15 [GAME_EVENT] 
+2025-11-04 18:00:18 [INFO] SCENE SET: main_menu.
+2025-11-04 18:00:18 [GAME_EVENT] 
+[INFO] --- GAME SESSION ENDED ---

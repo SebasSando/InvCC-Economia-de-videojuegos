@@ -1,0 +1,119 @@
+2025-11-04 21:17:19 [INFO] --- NEW GAME SESSION STARTED ---
+2025-11-04 21:17:19 [INFO] GameManagerSystem initialized.
+2025-11-04 21:17:19 [GAME_EVENT] 
+2025-11-04 21:17:23 [INFO] SCENE SET: level_02.
+2025-11-04 21:17:23 [GAME_EVENT] 
+2025-11-04 21:17:28 [INFO] Enemy type 1 spawned.
+2025-11-04 21:17:28 [INFO] Enemy type 2 spawned.
+2025-11-04 21:17:30 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:31 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:32 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:32 [INFO] SCORE CHANGED: Player score updated by +50. Score: 0 -> 50.
+2025-11-04 21:17:32 [INFO] ENEMY KILLED: 5. BY: 2
+2025-11-04 21:17:33 [INFO] Enemy type 1 spawned.
+2025-11-04 21:17:33 [INFO] Enemy type 2 spawned.
+2025-11-04 21:17:33 [INFO] PLAYER HIT: Player attacked by Enemy 4 via bullet. Damage done: 1
+2025-11-04 21:17:33 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:34 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:34 [INFO] SCORE CHANGED: Player score updated by +100. Score: 50 -> 150.
+2025-11-04 21:17:34 [INFO] ENEMY KILLED: 3. BY: 2
+2025-11-04 21:17:35 [INFO] Enemy type 3 spawned.
+2025-11-04 21:17:36 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:36 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:37 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:37 [INFO] SCORE CHANGED: Player score updated by +100. Score: 150 -> 250.
+2025-11-04 21:17:37 [INFO] ENEMY KILLED: 3. BY: 2
+2025-11-04 21:17:38 [INFO] ENEMY HIT: Enemy type 6 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:38 [INFO] Extra life generated.
+2025-11-04 21:17:38 [INFO] Enemy type 1 spawned.
+2025-11-04 21:17:38 [INFO] Enemy type 2 spawned.
+2025-11-04 21:17:38 [INFO] ENEMY HIT: Enemy type 6 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:39 [INFO] ENEMY HIT: Enemy type 6 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:39 [INFO] ENEMY HIT: Enemy type 6 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:40 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:40 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:40 [INFO] SCORE CHANGED: Player score updated by +50. Score: 250 -> 300.
+2025-11-04 21:17:40 [INFO] ENEMY KILLED: 5. BY: 2
+2025-11-04 21:17:41 [INFO] POWERUP ACQUIRED: Extra Life.
+2025-11-04 21:17:41 [INFO] RESOURCE CHANGE (Lives): Player gained 1 life. Lives: 4 -> 5.
+2025-11-04 21:17:43 [INFO] Enemy type 1 spawned.
+2025-11-04 21:17:43 [INFO] Enemy type 2 spawned.
+2025-11-04 21:17:43 [INFO] ENEMY HIT: Enemy type 6 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:44 [INFO] ENEMY HIT: Enemy type 6 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:44 [INFO] SCORE CHANGED: Player score updated by +250. Score: 300 -> 550.
+2025-11-04 21:17:44 [INFO] ENEMY KILLED: 6. BY: 2
+2025-11-04 21:17:47 [INFO] Enemy type 3 spawned.
+2025-11-04 21:17:47 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:48 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:48 [INFO] SCORE CHANGED: Player score updated by +50. Score: 550 -> 600.
+2025-11-04 21:17:48 [INFO] ENEMY KILLED: 5. BY: 2
+2025-11-04 21:17:48 [INFO] Enemy type 1 spawned.
+2025-11-04 21:17:48 [INFO] Enemy type 2 spawned.
+2025-11-04 21:17:49 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:49 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:49 [INFO] SCORE CHANGED: Player score updated by +50. Score: 600 -> 650.
+2025-11-04 21:17:49 [INFO] ENEMY KILLED: 5. BY: 2
+2025-11-04 21:17:50 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:50 [INFO] PLAYER HIT: Player attacked by Enemy 4 via bullet. Damage done: 1
+2025-11-04 21:17:50 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:52 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:52 [INFO] SCORE CHANGED: Player score updated by +100. Score: 650 -> 750.
+2025-11-04 21:17:52 [INFO] ENEMY KILLED: 3. BY: 2
+2025-11-04 21:17:53 [INFO] Extra life generated.
+2025-11-04 21:17:53 [INFO] Enemy type 1 spawned.
+2025-11-04 21:17:53 [INFO] Enemy type 2 spawned.
+2025-11-04 21:17:53 [INFO] PLAYER HIT: Player attacked by Enemy 4 via bullet. Damage done: 1
+2025-11-04 21:17:54 [INFO] ENEMY HIT: Enemy type 6 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:55 [INFO] POWERUP ACQUIRED: Extra Life.
+2025-11-04 21:17:55 [INFO] RESOURCE CHANGE (Lives): Player gained 1 life. Lives: 3 -> 4.
+2025-11-04 21:17:56 [INFO] PLAYER HIT: Player attacked by Enemy 4 via bullet. Damage done: 1
+2025-11-04 21:17:57 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:57 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:57 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:57 [INFO] SCORE CHANGED: Player score updated by +100. Score: 750 -> 850.
+2025-11-04 21:17:57 [INFO] ENEMY KILLED: 3. BY: 2
+2025-11-04 21:17:58 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:58 [INFO] Enemy type 1 spawned.
+2025-11-04 21:17:58 [INFO] Enemy type 2 spawned.
+2025-11-04 21:17:59 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:17:59 [INFO] SCORE CHANGED: Player score updated by +50. Score: 850 -> 900.
+2025-11-04 21:17:59 [INFO] ENEMY KILLED: 5. BY: 2
+2025-11-04 21:17:59 [INFO] Enemy type 3 spawned.
+2025-11-04 21:18:00 [INFO] PLAYER HIT: Player attacked by Enemy 4 via bullet. Damage done: 1
+2025-11-04 21:18:00 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:18:00 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:18:02 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:18:02 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:18:02 [INFO] PLAYER HIT: Player attacked by Enemy 4 via bullet. Damage done: 1
+2025-11-04 21:18:02 [INFO] ENEMY HIT: Enemy type 5 attacked by player via bullet. Damage done: 1
+2025-11-04 21:18:02 [INFO] SCORE CHANGED: Player score updated by +50. Score: 900 -> 950.
+2025-11-04 21:18:02 [INFO] ENEMY KILLED: 5. BY: 2
+2025-11-04 21:18:03 [INFO] ENEMY HIT: Enemy type 3 attacked by player via bullet. Damage done: 1
+2025-11-04 21:18:03 [INFO] Enemy type 1 spawned.
+2025-11-04 21:18:03 [INFO] Enemy type 2 spawned.
+2025-11-04 21:18:03 [INFO] PLAYER HIT: Player attacked by Enemy 4 via bullet. Damage done: 1
+2025-11-04 21:18:03 [INFO] ENEMY KILLED: 1. BY: 4
+2025-11-04 21:18:03 [INFO] Player died!. Triggering game over scene.
+2025-11-04 21:18:03 [INFO] SCENE SET: defeat_menu.
+2025-11-04 21:18:04 [GAME_EVENT] 
+2025-11-04 21:18:10 [INFO] SCENE SET: main_menu.
+2025-11-04 21:18:10 [GAME_EVENT] 
+2025-11-04 21:18:12 [INFO] SCENE SET: level_03.
+2025-11-04 21:18:12 [GAME_EVENT] 
+2025-11-04 21:18:19 [INFO] PLAYER HIT: Player attacked by Enemy 13 via bullet. Damage done: 1
+2025-11-04 21:18:19 [INFO] PLAYER HIT: Player attacked by Enemy 13 via bullet. Damage done: 1
+2025-11-04 21:18:19 [INFO] PLAYER HIT: Player attacked by Enemy 13 via bullet. Damage done: 1
+2025-11-04 21:18:19 [INFO] PLAYER HIT: Player attacked by Enemy 13 via bullet. Damage done: 1
+2025-11-04 21:18:23 [INFO] PLAYER HIT: Player attacked by Enemy 13 via bullet. Damage done: 1
+2025-11-04 21:18:24 [INFO] PLAYER HIT: Player attacked by Enemy 13 via bullet. Damage done: 1
+2025-11-04 21:18:24 [INFO] PLAYER HIT: Player attacked by Enemy 13 via bullet. Damage done: 1
+2025-11-04 21:18:24 [INFO] PLAYER HIT: Player attacked by Enemy 13 via bullet. Damage done: 1
+2025-11-04 21:18:26 [INFO] PLAYER HIT: Player attacked by Enemy 13 via bullet. Damage done: 1
+2025-11-04 21:18:26 [INFO] PLAYER HIT: Player attacked by Enemy 13 via bullet. Damage done: 1
+2025-11-04 21:18:26 [INFO] ENEMY KILLED: 1. BY: 13
+2025-11-04 21:18:26 [INFO] Player died!. Triggering game over scene.
+2025-11-04 21:18:26 [INFO] SCENE SET: defeat_menu.
+2025-11-04 21:18:26 [GAME_EVENT] 
+2025-11-04 21:19:03 [INFO] SCENE SET: main_menu.
+2025-11-04 21:19:03 [GAME_EVENT] 
+[INFO] --- GAME SESSION ENDED ---
